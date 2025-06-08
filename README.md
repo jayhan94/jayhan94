@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jayhan94
-- 👀 I’m interested in bigdata and rust
-- 🌱 I’m currently learning data processing and analysis technology
+- 👋 Hi, I’m @jayhan94.
+- 👀 I’m interested in data technology.
+- 🌱 I’m currently learning datalake.
 - 📫 How to reach me: feynmanhan94@gmail.com
 - 📖 My personal chinese blog website: [jayhan94.github.io](https://jayhan94.github.io)
 
